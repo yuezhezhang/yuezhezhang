@@ -1,4 +1,12 @@
 ### Hi there 👋
+### This is Yuezhe Zhang!
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yuezhezhang)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuezhe-frankie-zhang-a36b35197/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyz994141@gmail.com)
+
+- 🔭 Welcome to my Github page! 
+- 🌱 I am currently a MSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
 <!--
 **yuezhezhang/yuezhezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
