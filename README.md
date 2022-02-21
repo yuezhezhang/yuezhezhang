@@ -7,11 +7,14 @@
 
 - 🔭 Welcome to my Github page! 
 - 🌱 I am currently a MSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
-- 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring robots to more and more people's daily lives.
+- 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring robots to more people's daily lives.
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics.
 
 ### Recent Project
 #### Global Planning and Local Obstacle Avoidance for a Drone
+The draft paper can be found [here](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone).
+
+
 ![fig](https://github.com/yuezhezhang/images_folder/blob/master/RO47005.gif)
 
 
