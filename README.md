@@ -15,7 +15,7 @@
 The draft paper can be found [here](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone).
 
 
-![fig](https://github.com/yuezhezhang/images_folder/blob/master/RO47005.gif)
+![fig](https://github.com/yuezhezhang/yuezhezhang/blob/main/images/RO47005.gif)
 
 
 [![Frankie's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
