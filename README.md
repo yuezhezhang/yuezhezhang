@@ -8,7 +8,8 @@
 - 🔭 Welcome to my Github page! 
 - 🌱 I am currently a MSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
 - 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring more robots to people's daily lives.
-- 📫 Feel free to contact me if you want to discuss interesting topics about robotics.
+- ⚡  I like playing basketball and football when I am free, and I am a big fan of Leo Messi.
+- 📫 Feel free to contact me if you want to discuss interesting topics about robotics or sports.
 
 ### Recent Projects
 <!--
