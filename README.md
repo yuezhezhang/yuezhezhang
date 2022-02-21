@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Yuezhe Zhang!
+### This is Frankie Yuezhe Zhang!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/yuezhezhang)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuezhe-frankie-zhang-a36b35197/)
@@ -18,7 +18,7 @@ The draft paper can be found [here](https://www.researchgate.net/publication/358
 ![fig](https://github.com/yuezhezhang/images_folder/blob/master/RO47005.gif)
 
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang)](https://github.com/anuraghazra/github-readme-stats)
+[![Frankie's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuezhezhang/yuezhezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
