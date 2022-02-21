@@ -7,16 +7,24 @@
 
 - 🔭 Welcome to my Github page! 
 - 🌱 I am currently a MSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
-- 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring robots to more people's daily lives.
+- 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring more robots to people's daily lives.
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics.
 
-### Recent Project
+### Recent Projects
+<!--
 #### Global Planning and Local Obstacle Avoidance for a Drone
 The draft paper can be found [here](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone).
 
 
 ![fig](https://github.com/yuezhezhang/yuezhezhang/blob/main/images/RO47005.gif)
 
+#### 3D Pedestrian Detection based on Multiple Sensors
+![fig](https://github.com/yuezhezhang/yuezhezhang/blob/main/images/RO47004.gif)
+-->
+
+| [Global Planning and Local Obstacle Avoidance for a Drone](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone) | 3D Pedestrian Detection based on Multiple Sensors |
+|---|---|
+<img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
 
 [![Frankie's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
