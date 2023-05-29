@@ -27,7 +27,7 @@ The draft paper can be found [here](https://www.researchgate.net/publication/358
 |---|---|
 <img src="./images/RO47014.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47013.gif" alt="004" style="zoom: 50%;" /> |
 
-| [Global Planning and Local Obstacle Avoidance for a Drone](https://www.researchgate.net/publication/358573208_Planning_Algorithm_for_a_Quadrotor_Drone) | 3D Pedestrian Detection based on Multiple Sensors |
+| [Global Planning and Local Obstacle Avoidance for a Drone](https://github.com/Ruben-MR/Quadrotor_3D_planning_control) | 3D Pedestrian Detection based on Multiple Sensors |
 |---|---|
 <img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
 
