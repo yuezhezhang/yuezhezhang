@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuezhe-frankie-zhang-a36b35197/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyz994141@gmail.com)
 
-- 🔭 Welcome to my Github page! 
-- 🌱 I am currently a MSc student in Robotics at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
+- 🔭 Welcome to my GitHub page! 
+- 🌱 I obtained my Master's degree in Robotics with honours at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
 - 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring more robots to people's daily lives.
 - ⚡  I like playing basketball and football when I am free, and I am a big fan of Leo Messi.
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics or sports.
@@ -31,9 +31,9 @@ The draft paper can be found [here](https://www.researchgate.net/publication/358
 |---|---|
 <img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
 
+<!--
 [![Frankie's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 **yuezhezhang/yuezhezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
