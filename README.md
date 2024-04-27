@@ -23,15 +23,15 @@ The draft paper can be found [here](https://www.researchgate.net/publication/358
 ![fig](https://github.com/yuezhezhang/yuezhezhang/blob/main/images/RO47004.gif)
 -->
 
-| [TIAGo: A Retail Sorting Robot Using Symbolic Reasoning](https://www.researchgate.net/publication/359802991_TIAGo_A_Sorting_Robot_for_Hagelslag)  | Ocean Cleanup Game Using Haptic Feedback |
+| [TIAGo: A Retail Sorting Robot Using Symbolic Reasoning](https://www.researchgate.net/publication/359802991_TIAGo_A_Sorting_Robot_for_Hagelslag)  | [Global Planning and Local Obstacle Avoidance for a Drone](https://github.com/Ruben-MR/Quadrotor_3D_planning_control) |
 |---|---|
-<img src="./images/RO47014.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47013.gif" alt="004" style="zoom: 50%;" /> |
+<img src="./images/RO47014.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47005.gif" alt="004" style="zoom: 50%;" /> |
 
+<!--
 | [Global Planning and Local Obstacle Avoidance for a Drone](https://github.com/Ruben-MR/Quadrotor_3D_planning_control) | 3D Pedestrian Detection based on Multiple Sensors |
 |---|---|
 <img src="./images/RO47005.gif" alt="005" style="zoom: 50%;" /> | <img src="./images/RO47004.gif" alt="004" style="zoom: 50%;" /> |
 
-<!--
 [![Frankie's github stats](https://github-readme-stats.vercel.app/api?username=yuezhezhang&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 **yuezhezhang/yuezhezhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
