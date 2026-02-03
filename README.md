@@ -5,8 +5,8 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yuezhe-frankie-zhang-a36b35197/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zyz994141@gmail.com)
 
-- 🔭 I am a PhD candidate at [PEARL Lab](https://pearl-lab.com/), [TU Darmstadt](https://www.tu-darmstadt.de/) under the supervision of [Prof. Georgia Chalvatzaki](https://pearl-lab.com/people/georgia-chalvatzaki/).
-- 🌱 I obtained my Master's degree in Robotics with honours at [TU Delft](https://www.tudelft.nl/en/). Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering (Xuteli School, with honours) at [Beijing Institute of Technology](https://english.bit.edu.cn/).
+- 🔭 I am a PhD candidate at [PEARL Lab](https://pearl-lab.com/), TU Darmstadt under the supervision of [Prof. Georgia Chalvatzaki](https://pearl-lab.com/people/georgia-chalvatzaki/).
+- 🌱 I obtained my Master's degree in Robotics with honours at TU Delft. Prior to that, I obtained my Bachelor's degree in Mechatronics Engineering with honours at Beijing Institute of Technology.
 - 😄 I am interested in motion planning for mobile robots and robot arms and human robot interaction. Hope one day we can bring more robots to people's daily lives.
 - ⚡  I like playing basketball and football when I am free, and I am a big fan of Leo Messi.
 - 📫 Feel free to contact me if you want to discuss interesting topics about robotics or sports.
